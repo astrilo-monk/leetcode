@@ -8,6 +8,7 @@ i will solve and upload leetcode problems here just for fun
 | ------- | ------- |
 | [0015-3sum](https://github.com/astrilo-monk/leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/astrilo-monk/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/astrilo-monk/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/astrilo-monk/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/astrilo-monk/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/astrilo-monk/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -21,6 +22,7 @@ i will solve and upload leetcode problems here just for fun
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/astrilo-monk/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/astrilo-monk/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/astrilo-monk/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Sorting
@@ -35,5 +37,6 @@ i will solve and upload leetcode problems here just for fun
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/astrilo-monk/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/astrilo-monk/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 <!---LeetCode Topics End-->
